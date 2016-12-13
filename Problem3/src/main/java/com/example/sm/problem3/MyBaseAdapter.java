@@ -44,6 +44,7 @@ public class MyBaseAdapter extends BaseAdapter{
     public View getView(int position, View convertView, ViewGroup parent) {
 
         // need something here
+        View itemLayout=null;
 
         return itemLayout;
 

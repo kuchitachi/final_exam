@@ -70,6 +70,11 @@ class Customer extends Person{
         this.name = name;
     }
 
+    @Override
+    void work() {
+
+    }
+
     // need something here
 }
 
